@@ -26,3 +26,16 @@ h3 {
     letter-spacing: 0.01em;
 
 }
+button{
+    padding: 5px;
+    margin: 10px;
+    border-radius: 20px;
+    border-style: groove;
+    cursor: pointer;
+    border-color: rgba(0,0,0,.5);
+}
+
+button:hover{
+    box-shadow: rgba(0,0,0,.5);
+}
+
